@@ -1,0 +1,322 @@
+text,intent
+привет,greeting
+здравствуйте,greeting
+добрый день,greeting
+доброе утро,greeting
+добрый вечер,greeting
+приветствую,greeting
+здравия желаю,greeting
+приветик,greeting
+хай,greeting
+здорово,greeting
+салют,greeting
+доброго времени суток,greeting
+"привет, как дела",greeting
+"здравствуйте, как жизнь",greeting
+"добрый день, чем занимаетесь",greeting
+"привет, я новенький",greeting
+"здравствуйте, это бот?",greeting
+приветствую вас,greeting
+"здравствуйте, очень приятно",greeting
+моё почтение,greeting
+доброго здоровья,greeting
+"привет, давно не виделись",greeting
+"здравствуйте, извините",greeting
+"добрый вечер, что нового",greeting
+"привет, как тебя зовут",greeting
+"здравствуйте, я здесь впервые",greeting
+"привет, погода",greeting
+"здравствуйте, помогите",greeting
+"доброе утро, бот",greeting
+"привет, меня зовут Роман",greeting
+"здравствуйте, меня зовут Анна",greeting
+"добрый день, я Александр",greeting
+"привет, я Мария",greeting
+"здравствуйте, представляйтесь, меня зовут Дмитрий",greeting
+"добрый вечер, меня зовут Елена",greeting
+пока,goodbye
+до свидания,goodbye
+всего хорошего,goodbye
+удачи,goodbye
+до встречи,goodbye
+прощай,goodbye
+пока пока,goodbye
+бывай,goodbye
+счастливо,goodbye
+до скорого,goodbye
+"пока, бот",goodbye
+"до свидания, спасибо",goodbye
+всего доброго,goodbye
+до связи,goodbye
+увидимся,goodbye
+прощайте,goodbye
+до завтра,goodbye
+"все, я ухожу",goodbye
+счастливо оставаться,goodbye
+"пока, удачи",goodbye
+"до встречи, бот",goodbye
+всего наилучшего,goodbye
+"прощай, до новых встреч",goodbye
+"до свидания, пока",goodbye
+"удачи, бот",goodbye
+бывайте здоровы,goodbye
+разрешите откланяться,goodbye
+"пока, спасибо за общение",goodbye
+"до свидания, приятно было пообщаться",goodbye
+сумма 5 10,addition
+сложи 2 и 3,addition
+5 плюс 7,addition
+сколько будет 12 + 15,addition
+прибавь 8 к 3,addition
+10 + 20,addition
+сложи 4 и 6,addition
+сумма чисел 9 и 1,addition
+1 + 1,addition
+100 + 200,addition
+сложи 5.5 и 2.5,addition
+15 + 15,addition
+прибавь 7 к 8,addition
+сколько получится 3 + 4,addition
+сумма 8 и 9,addition
+сложи 12 и 7,addition
+5 плюс 5,addition
+10 + 5,addition
+прибавь 2 к 2,addition
+сумма 1000 и 500,addition
+сложи 1.2 и 3.4,addition
+5 + 3,addition
+7 + 2,addition
+сложи 9 и 8,addition
+прибавь 10 к 10,addition
+сумма 25 и 25,addition
+сложи 0.5 и 0.5,addition
+сколько будет 4 + 4,addition
+сумма 3 и 7,addition
+сложи 6 и 4,addition
+8 + 2,addition
+прибавь 1 к 1,addition
+сумма 12 и 8,addition
+сложи 15 и 5,addition
+20 + 30,addition
+сколько будет 2 + 2,addition
+вычисли 123 + 456,addition
+прибавь 7.5 к 2.3,addition
+найди сумму 40 и 60,addition
+сколько будет 1000 плюс 2000,addition
+сколько времени,time
+который час,time
+текущее время,time
+дата и время,time
+какой сегодня день,time
+какая дата,time
+какое сегодня число,time
+покажи время,time
+часы,time
+время,time
+сейчас сколько,time
+точное время,time
+который сейчас час,time
+дата,time
+сегодняшняя дата,time
+число,time
+день недели,time
+какой день,time
+сколько сейчас времени,time
+время московское,time
+который час в москве,time
+дата сегодня,time
+текущая дата,time
+часы и минуты,time
+покажи дату,time
+сколько часов,time
+который час сейчас,time
+текущее время и дата,time
+какое число сегодня,time
+какой сегодня день недели,time
+сколько минут,time
+текущий час,time
+дата и время сейчас,time
+покажи текущее время,time
+"который час, бот",time
+какая сегодня дата,time
+время в россии,time
+подскажите точное время,time
+погода в москве,weather
+какая погода,weather
+будет ли дождь,weather
+прогноз погоды,weather
+температура на улице,weather
+погода сегодня,weather
+что с погодой,weather
+сколько градусов,weather
+погода в спб,weather
+погода в новосибирске,weather
+прогноз на завтра,weather
+температура в москве,weather
+какая погода в лондоне,weather
+идет ли дождь,weather
+сильный ветер,weather
+солнечно ли,weather
+погода в екатеринбурге,weather
+прогноз погоды на сегодня,weather
+температура сейчас,weather
+какая температура,weather
+будет ли снег,weather
+погода в казани,weather
+погода в сочи,weather
+прогноз на выходные,weather
+температура воздуха,weather
+что за погода,weather
+погода на неделю,weather
+какая погода завтра,weather
+погода в россии,weather
+температура в спб,weather
+погода в киеве,weather
+прогноз погоды на завтра,weather
+будет ли дождь сегодня,weather
+снег ли,weather
+ветер какой,weather
+погода в краснодаре,weather
+погода в воронеже,weather
+погода в самаре,weather
+погода в омске,weather
+узнай погоду в рязани,weather
+"какая сегодня погода, интересно?",weather
+не подскажете погоду?,weather
+что там на улице? тепло?,weather
+стоит ли брать зонт?,weather
+прогноз на сегодня в москве,weather
+что ты умеешь,help
+помощь,help
+список команд,help
+какие у тебя функции,help
+что ты можешь,help
+расскажи о себе,help
+твои возможности,help
+помоги,help
+нужна помощь,help
+как тебя использовать,help
+что я могу спросить,help
+подскажи,help
+что ты умеешь делать,help
+функции бота,help
+команды,help
+в чем ты помогаешь,help
+как с тобой работать,help
+справка,help
+что ты понимаешь,help
+твои навыки,help
+покажи список команд,help
+как дела,smalltalk
+как настроение,smalltalk
+что делаешь,smalltalk
+как жизнь,smalltalk
+как ты,smalltalk
+что нового,smalltalk
+как сам,smalltalk
+как поживаешь,smalltalk
+нормально,smalltalk
+отлично,smalltalk
+хорошо,smalltalk
+плохо,smalltalk
+не очень,smalltalk
+всё супер,smalltalk
+чё как,smalltalk
+как оно,smalltalk
+как самочувствие,smalltalk
+что слышно,smalltalk
+как твои дела,smalltalk
+как успехи,smalltalk
+что нового в мире,smalltalk
+расскажи что-нибудь,smalltalk
+пошути,smalltalk
+анекдот,smalltalk
+ты умный,smalltalk
+"бот, ты тут",smalltalk
+тебе нравится твоя работа?,smalltalk
+ты любишь свою работу?,smalltalk
+тебе нравится быть ботом?,smalltalk
+нравится ли тебе общаться с людьми?,smalltalk
+что ты думаешь о жизни?,smalltalk
+в чём смысл жизни?,smalltalk
+как ты относишься к людям?,smalltalk
+ты когда-нибудь устаёшь?,smalltalk
+у тебя есть мечта?,smalltalk
+о чём ты мечтаешь?,smalltalk
+какое твоё любимое время года?,smalltalk
+что ты любишь делать в свободное время?,smalltalk
+расскажи интересный факт,smalltalk
+как тебя зовут?,smalltalk
+как тебя называть?,smalltalk
+какое у тебя имя?,smalltalk
+ты кто?,smalltalk
+какое сегодня число,date
+сегодняшняя дата,date
+какое число,date
+какой день,date
+число,date
+дата сегодня,date
+какая сегодня дата,date
+какое сегодня число и месяц,date
+назови дату,date
+какой сегодня день месяца,date
+сегодняшнее число,date
+"какое сегодня число, бот",date
+подскажи дату,date
+число сегодня,date
+сколько времени,time_only
+который час,time_only
+текущее время,time_only
+точное время,time_only
+часы,time_only
+сколько сейчас времени,time_only
+время сейчас,time_only
+покажи время,time_only
+сколько минут,time_only
+который час сейчас,time_only
+текущий час,time_only
+время московское,time_only
+а завтра,weather_followup
+а послезавтра,weather_followup
+а в питере,weather_followup
+а в москве,weather_followup
+а в спб,weather_followup
+а на выходных,weather_followup
+а погода на завтра,weather_followup
+а что завтра,weather_followup
+а послезавтра какая погода,weather_followup
+а в другом городе,weather_followup
+а в новосибирске,weather_followup
+а в екатеринбурге,weather_followup
+а в казани,weather_followup
+а на неделе,weather_followup
+а что будет завтра,weather_followup
+а завтра дождь,weather_followup
+а послезавтра снег,weather_followup
+а в сочи,weather_followup
+а в крыму,weather_followup
+а в россии,weather_followup
+разность 10 3,subtraction
+вычти 5 из 8,subtraction
+10 минус 4,subtraction
+сколько будет 15 - 7,subtraction
+отними 2 от 9,subtraction
+12 - 5,subtraction
+вычисли разность 20 и 3,subtraction
+20 минус 3,subtraction
+100 - 50,subtraction
+разность чисел 9 и 1,subtraction
+отнять 7 от 10,subtraction
+сколько останется 8-2,subtraction
+умножь 5 на 6,multiplication
+произведение 3 и 7,multiplication
+5 * 8,multiplication
+сколько будет 4 умножить на 9,multiplication
+10 × 10,multiplication
+умножить 2 на 3,multiplication
+7 * 4,multiplication
+перемножь 6 и 7,multiplication
+произведение 2 и 8,multiplication
+12 умножить на 2,multiplication
+умножение 3*3,multiplication
+сколько будет 5 × 5,multiplication
